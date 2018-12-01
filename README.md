@@ -26,7 +26,7 @@
 
 # Software aids
 - [Scikit](http://scikit-learn.org/stable/): great docs and used all over the place
-- [Anaconda](https://www.continuum.io/downloads): Python distribution packed with all you need for ML (SciPy, etc). Especially usefull on Windows, where building C-deps is usually a struggle.
+- [Anaconda](https://www.anaconda.com/download/): Python distribution packed with all you need for ML (SciPy, etc). Especially usefull on Windows, where building C-deps is usually a struggle.
 - [Spark MLLib](http://spark.apache.org/docs/latest/mllib-guide.html)
 - [TensorFlow](https://www.tensorflow.org/): Low level stuff GPU computation aid from Google
 - [Keras](https://github.com/fchollet/keras): Due to TensorFlow being kind of low level
